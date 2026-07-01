@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6e0092/X/v1
+canonical_location: https://kanripo.org/bkk/KR6e0092/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴妄盡還源觀疏鈔補解
+  identifiers:
+    krp: KR6e0092
+    cbeta: X58n0994
+    cbeta_old_id: X58n0994
+    authorityid: CA0001446
+    json_key: X0994
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n0994.xml
+    old_id: X58n0994
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0092_000-X.yaml, hash: 'sha256:43fb114d9207e97ca4c5075c6a8cc056d52ab0c16d4f69b28944a40728dc2381'}
+  - {seq: 1, filename: KR6e0092_001-X.yaml, hash: 'sha256:ee6e696db158d1f22756f1b1bfe0b01a791e607d2d7ffd1e8e94929c78dff4e6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0092_000-X.markers.yaml, hash: 'sha256:c6e109ab25bf3ffad171c0f7d8b153836d1f336f034f3a0ec64319ebfd274578'}
+  - {seq: 1, role: markers, filename: assets/KR6e0092_001-X.markers.yaml, hash: 'sha256:13f6dc3521e60ec24dde87cb4c8a2d9384299be1a0737b33adaa00d4a6758cc1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0092_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 20979
+  label: 華嚴還源觀疏鈔補解并序
+  type: juan
+  level: 1
+hash: sha256:06624d0d505866cc176445f70d377b38437b359d7cdede98f47daea9e7cba59d

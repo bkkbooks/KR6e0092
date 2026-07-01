@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0092/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴妄盡還源觀疏鈔補解
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n0994.xml
+    old_id: X58n0994
+hash: sha256:43fb114d9207e97ca4c5075c6a8cc056d52ab0c16d4f69b28944a40728dc2381

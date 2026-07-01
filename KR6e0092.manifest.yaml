@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6e0092/v1
+canonical_location: https://kanripo.org/bkk/KR6e0092/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 華嚴妄盡還源觀疏鈔補解
+  identifiers:
+    alt_id:
+    - X58n0994
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n0994.xml
+    old_id: X58n0994
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0092_000.yaml, hash: 'sha256:43fb114d9207e97ca4c5075c6a8cc056d52ab0c16d4f69b28944a40728dc2381'}
+  - {seq: 1, filename: KR6e0092_001.yaml, hash: 'sha256:191c16953744ff779b5199a24952627286a0a316f197df1b25455a5100363e3f'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6e0092_001.markers.yaml, hash: 'sha256:f9525c163518db6eb8825c0f98d12abaa69a81c280ba49377ed18e66e72ddab5'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0092_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 20979
+  label: 華嚴還源觀疏鈔補解并序
+  type: juan
+  level: 1
+hash: sha256:616010486504ba2552c52fa318950f6f81310c089a471d3acf37137ee1ee0a3c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
