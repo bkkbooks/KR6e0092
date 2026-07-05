@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0092_000.yaml, hash: 'sha256:43fb114d9207e97ca4c5075c6a8cc056d52ab0c16d4f69b28944a40728dc2381'}
-  - {seq: 1, filename: KR6e0092_001.yaml, hash: 'sha256:191c16953744ff779b5199a24952627286a0a316f197df1b25455a5100363e3f'}
+  - {seq: 1, filename: KR6e0092_001.yaml, hash: 'sha256:ee6e696db158d1f22756f1b1bfe0b01a791e607d2d7ffd1e8e94929c78dff4e6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0092_001.markers.yaml, hash: 'sha256:f9525c163518db6eb8825c0f98d12abaa69a81c280ba49377ed18e66e72ddab5'}
+  - {seq: 0, role: markers, filename: assets/KR6e0092_000.markers.yaml, hash: 'sha256:21de6054b7b34f15e96f771a382af4561ef0e9f4ef680a45a55be6467caa0cb9'}
+  - {seq: 1, role: markers, filename: assets/KR6e0092_001.markers.yaml, hash: 'sha256:25e722943c5deacad5dd1cf72274574bf33c45b22280dd5f0e6be7829b89a7f1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 華嚴還源觀疏鈔補解并序
   type: juan
   level: 1
-hash: sha256:616010486504ba2552c52fa318950f6f81310c089a471d3acf37137ee1ee0a3c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:58923f4112d9095a61b578e1337aeb8deacd6aa1066b9bc466cfe927972f64e9
