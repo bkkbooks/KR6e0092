@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6e0092/v1
 canonical_location: https://kanripo.org/bkk/KR6e0092/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 華嚴妄盡還源觀疏鈔補解
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0092_000.yaml, hash: 'sha256:43fb114d9207e97ca4c5075c6a8cc056d52ab0c16d4f69b28944a40728dc2381'}
-  - {seq: 1, filename: KR6e0092_001.yaml, hash: 'sha256:ee6e696db158d1f22756f1b1bfe0b01a791e607d2d7ffd1e8e94929c78dff4e6'}
+  - {seq: 1, filename: KR6e0092_001.yaml, hash: 'sha256:2d4fddc082c1beee43be0dba061f3b12b9efef2b9d7640f6f4d0eac3185e933f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6e0092_000.markers.yaml, hash: 'sha256:21de6054b7b34f15e96f771a382af4561ef0e9f4ef680a45a55be6467caa0cb9'}
-  - {seq: 1, role: markers, filename: assets/KR6e0092_001.markers.yaml, hash: 'sha256:25e722943c5deacad5dd1cf72274574bf33c45b22280dd5f0e6be7829b89a7f1'}
+  - {seq: 1, role: markers, filename: assets/KR6e0092_001.markers.yaml, hash: 'sha256:4d6834956c31091b239fb541d95afc706814734d53352cd9028306a6817c3873'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 華嚴還源觀疏鈔補解并序
   type: juan
   level: 1
-hash: sha256:58923f4112d9095a61b578e1337aeb8deacd6aa1066b9bc466cfe927972f64e9
+hash: sha256:5f189e27b6294136e313971c2a84ea7fd9c79c339479e544980693a3dcb0c34f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
